@@ -1,0 +1,10 @@
+Spaghetti:10
+Pizza:21.50
+Ziemniaczki:5.00
+Klopsiki:10.50
+Ryz:5
+Zupa:6.90
+Woda:2
+Kanapka:1
+Tost:2
+Parowka:3.5
